@@ -1,0 +1,9 @@
+Preparation: 
+-- install Node https://nodejs.org/en/
+Open ProtractorTask folder
+1) Run envPrepare.cmd
+2) Run start_seleniumServer.cmd. Wait till you see text 'Selenium server is up and running'
+3) Run start_Test.cmd
+After test:
+4) On console where Selenium was started press enter (wait till message about shutting down selenium appears)
+5) Close console
